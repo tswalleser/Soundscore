@@ -1,1 +1,1 @@
-app.use(exrpress.static('public'));
+app.use(exrpress.static('docs'));
